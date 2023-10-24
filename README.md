@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.DITejGRbaQBTzY9XJ3-Z_wHaEI?pid=ImgDet&rs=1)](https://CyberSmeagol.io)
+[![MasterHead](https://twitter.com/CodingCamel/status/1716909054508089388/photo/1)](https://CyberSmeagol.io)
 <h1 align="center">Hi 👋, I'm Cyber Smeagol</h1>
 <h3 align="center">A Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b69e7349a46115a36d57f5a222ccf323?rik=fDFsJ7Bbosjx7w&pid=ImgRaw&r=0">
