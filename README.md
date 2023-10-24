@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/a/uiSP2xN)](https://CyberSmeagol.io)
+[![MasterHead](https://th.bing.com/th/id/OIP.E99Naj9SbAX2B0PCQ6FnswHaD4?pid=ImgDet&rs=1)](https://CyberSmeagol.io)
 <h1 align="center">Greetings Wanderer!</h1>
 <h3 align="center">A Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b69e7349a46115a36d57f5a222ccf323?rik=fDFsJ7Bbosjx7w&pid=ImgRaw&r=0">
