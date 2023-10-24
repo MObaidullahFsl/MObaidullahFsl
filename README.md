@@ -1,15 +1,4 @@
-### Hi there 👋
-
-<!--
-**CyberSmeagol/CyberSmeagol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...[![MasterHead](https://giphy.com/gifs/hackers-WIAhC5Y0p9ct2)](https://CyberSmeagol.io)
+[![MasterHead](https://giphy.com/gifs/hackers-WIAhC5Y0p9ct2)](https://CyberSmeagol.io)
 <h1 align="center">Hi 👋, I'm Cyber Smeagol</h1>
 <h3 align="center">A Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b69e7349a46115a36d57f5a222ccf323?rik=fDFsJ7Bbosjx7w&pid=ImgRaw&r=0">
@@ -43,8 +32,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybersmeagol&show_icons=true&locale=en" alt="cybersmeagol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybersmeagol&" alt="cybersmeagol" /></p>
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
