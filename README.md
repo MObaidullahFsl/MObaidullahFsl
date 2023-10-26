@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Programming Fundamentals**
 
-- 📝 I regularly write articles on [My Brain](My Brain)
+- 📝 I dont regularly write articles .
 
 - 💬 Ask me about **The Weather**
 
