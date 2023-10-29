@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybersmeagol" alt="cybersmeagol" /></a> </p>
 
-- 🔭 I’m currently working on **MarbleGame**
+- 🔭 I’m currently working on **My PC**
 
 - 🌱 I’m currently learning **Programming Fundamentals**
 
