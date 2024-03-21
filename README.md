@@ -6,14 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybersmeagol&label=Profile%20views&color=0e75b6&style=flat" alt="cybersmeagol" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybersmeagol" alt="cybersmeagol" /></a> </p>
-
+<!--https://youtube.com/playlist?list=PLLTznNgAoA2g5bcyGCP5_faXP5n2HIppf&feature=shared-->
 - 🔭 I’m currently working on **My PC**
 
 - 🌱 I’m currently learning **Programming Fundamentals**
 
 - 📝 I dont regularly write articles .
 
-- 💬 Ask me about **The Weather https://youtube.com/playlist?list=PLLTznNgAoA2g5bcyGCP5_faXP5n2HIppf&feature=shared**
+- 💬 Ask me about **The Weather **
 
 - 📫 How to reach me **Dont reach me**
 
