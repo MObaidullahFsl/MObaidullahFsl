@@ -13,7 +13,7 @@
 
 - 📝 I dont regularly write articles .
 
-- 💬 Ask me about **The Weather**
+- 💬 Ask me about **The Weather https://youtube.com/playlist?list=PLLTznNgAoA2g5bcyGCP5_faXP5n2HIppf&feature=shared**
 
 - 📫 How to reach me **Dont reach me**
 
