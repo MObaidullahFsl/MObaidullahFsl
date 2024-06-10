@@ -1,6 +1,6 @@
-![MasterHead](https://th.bing.com/th/id/R.74eb6e3e062fe2a0f2ef5d1218d8de12?rik=wIeMRbQUfs3HKA&pid=ImgRaw&r=0)
+![MasterHead](https://youtu.be/WmLVdDRTi1A?feature=shared)
 
-https://youtu.be/WmLVdDRTi1A?feature=shared
+
 
 
 <h1 align="center">Greetings Wanderer!</h1>
