@@ -7,17 +7,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybersmeagol" alt="cybersmeagol" /></a> </p>
 <!--https://youtube.com/playlist?list=PLLTznNgAoA2g5bcyGCP5_faXP5n2HIppf&feature=shared-->
-- 🔭 I’m currently working on **My PC**
 
-- 🌱 I’m currently learning **Programming Fundamentals**
+- 🌱 I’m currently working on **Web Development**
 
-- 📝 I dont regularly write articles .
+- 🌱 I’m currently learning **Data Structures**
 
-- 💬 Ask me about **The Weather **
+- 💬 Ask me about **Computers**
 
-- 📫 How to reach me **Dont reach me**
+- 📫 How to reach me **ObaidullahFaisal@outlook.com**
 
-- ⚡ Fun fact **The Earth is Flat**
+- ⚡ Fun fact **First IBM PC virus, known as "Brain," was created in Pakistan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
