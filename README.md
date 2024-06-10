@@ -1,4 +1,4 @@
-![MasterHead](https://youtu.be/WmLVdDRTi1A?feature=shared)
+![MasterHead](https://lh4.googleusercontent.com/proxy/MY65-Z_RzgLJV3fF3TODK3BCQ2M2R9fClWBab67gOTzySa7w-sRfruWsincaVdS1Ep_PfB080KfmVWbZC5mMMoljhA__gVJTIWP4Ev0DhcU_Iyh4bBQOvb-EE6ss_fKcbYJsfFDywrPubl-bz3bhi1sbFKf0)
 
 
 
