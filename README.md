@@ -5,7 +5,7 @@
 
 <h1 align="center">Greetings Wanderer!</h1>
 <h3 align="center">A Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b69e7349a46115a36d57f5a222ccf323?rik=fDFsJ7Bbosjx7w&pid=ImgRaw&r=0">
+<img align="right" alt="Coding" width="400" src="https://youtu.be/WmLVdDRTi1A?feature=shared">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybersmeagol&label=Profile%20views&color=0e75b6&style=flat" alt="cybersmeagol" /> </p>
 
