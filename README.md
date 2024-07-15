@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://giffiles.alphacoders.com/209/209343.gif) -->
-<div>
-<img src="https://giffiles.alphacoders.com/209/209343.gif" alt="MasterHead" style="width:100%; height:0%; ">
+<div style="height:150px; overflow:hidden;">
+    <img src="https://giffiles.alphacoders.com/209/209343.gif" alt="MasterHead" style="width:100%; height:100%; object-fit:cover;">
 </div>
 
 
