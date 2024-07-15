@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://giffiles.alphacoders.com/209/209343.gif) -->
-<img src="https://giffiles.alphacoders.com/209/209343.gif" alt="MasterHead" style="width:100%; height:30%; border-radius:10px;">
+<img src="https://giffiles.alphacoders.com/209/209343.gif" alt="MasterHead" style="width:30%; height:auto; border-radius:10px;">
 
 
 
