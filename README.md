@@ -1,13 +1,12 @@
 <!--[![MasterHead](https://giffiles.alphacoders.com/209/209343.gif) -->
-<div style="height:150px; overflow:hidden;">
-    <img src="https://giffiles.alphacoders.com/209/209343.gif" alt="MasterHead" style="width:100%; height:30%; object-fit:cover;">
+<div>
+    <img src="https://giffiles.alphacoders.com/209/209343.gif" alt="MasterHead"  width="100%" height="200">
 </div>
 
 
-
-<h1 align="center">Greetings Wanderer!</h1>
+<h1 align="center" >Greetings Wanderer!</h1>
 <h3 align="center">A Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://lh4.googleusercontent.com/proxy/MY65-Z_RzgLJV3fF3TODK3BCQ2M2R9fClWBab67gOTzySa7w-sRfruWsincaVdS1Ep_PfB080KfmVWbZC5mMMoljhA__gVJTIWP4Ev0DhcU_Iyh4bBQOvb-EE6ss_fKcbYJsfFDywrPubl-bz3bhi1sbFKf0">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=MObaidullahFsl&label=Profile%20views&color=0e75b6&style=flat" alt="cybersmeagol" /> </p>
 
