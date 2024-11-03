@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 💬 Ask me about **Computers**
+- 💬 Ask me about **Computer Science**
 
 - 📫 How to reach me **ObaidullahFaisal@outlook.com**
 
