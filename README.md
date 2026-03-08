@@ -5,7 +5,7 @@
 
 
 <h1 align="center" >Greetings Wanderer!</h1>
-<h3 align="center">A Tech Enthusiast</h3>
+<h3 align="center">From a Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=MObaidullahFsl&label=Profile%20views&color=0e75b6&style=flat" alt="cybersmeagol" /> </p>
@@ -13,15 +13,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MObaidullahFsl" alt="cybersmeagol" /></a> </p>-->
 <!--https://youtube.com/playlist?list=PLLTznNgAoA2g5bcyGCP5_faXP5n2HIppf&feature=shared-->
 
-- 🌱 I’m currently working on **Web Development**
+- 🌱 I’m currently working on **many things**
 
-- 🌱 I’m currently learning **Data Structures**
+- 🌱 I’m currently learning **AML**
 
-- 💬 Ask me about **Computer Science**
+- 💬 Ask me about **anything but Computer Science**
 
-- 📫 How to reach me **ObaidullahFaisal@outlook.com**
+- 📫 How to reach me **-**
 
-- ⚡ Fun fact **First IBM PC virus, known as "Brain," was created in Pakistan**
+- ⚡ Fun fact **UI is a big html psyop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
